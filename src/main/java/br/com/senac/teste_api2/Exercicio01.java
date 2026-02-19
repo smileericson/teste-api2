@@ -5,6 +5,6 @@ import java.sql.SQLOutput;
 public class Exercicio01 {
 
     public void novoMetodo(){
-        System.out.println("Primeiro comit");
+        System.out.println("edição commit");
     }
 }
